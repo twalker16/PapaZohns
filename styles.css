@@ -1,0 +1,111 @@
+@font-face{
+    font-family: "Courgette";
+    src: url(Courgette-Regular.ttf)
+}
+background1 {
+    width: 33vw;
+    height: 100vh;
+    background-color: #90AA86;
+    position:fixed;
+    bottom: 0;
+    left: 0;
+    border: 0px;
+}
+background2 {
+    width: 34vw;
+    height: 100vh;
+    background-color: #DCCCA3;
+    position:fixed;
+    bottom: 0;
+    left: 33vw;
+    border: 0px;
+}
+background3 {
+    width: 33vw;
+    height: 100vh;
+    background-color: #BF4342;
+    position:fixed;
+    bottom: 0;
+    left: 67vw;
+    border: 0px;
+}
+img1 {
+    width: 20vw;
+    height: 20vw;
+    position: fixed;
+    top: 4.166vw;
+    left: 4.166vw;
+    border: 0;
+    background-image: URL("https://images.unsplash.com/photo-1562514155-444b9a967dfa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGl0YWxpYW4lMjBjaGVmfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+}
+bg1 {
+    width: 58.333vw;
+    height: 20vw;
+    position: fixed;
+    left: 37.5vw;
+    top: 4.166vw;
+    background-color: #90AA86;
+    opacity: 0.75;
+    border-radius: 20px;
+
+}
+h1{
+    position:fixed;
+    left: 39.583vw;
+    top: 6.25vw;
+    font-family: "Courgette";
+    font-size: 36px;
+}
+p1{
+    position:fixed;
+    left: 39.583vw;
+    top: 12.5vw;
+    font-family: "Courgette";
+    font-size: 14px;
+    width: 54.166vw;
+    line-height: 200%;
+}
+bg2 {
+    width: 58.333vw;
+    height: 20vw;
+    position: fixed;
+    left: 4.166vw;
+    top: 27vw;
+    background-color: #BF4342;
+    opacity: 0.75;
+    border-radius: 20px;
+
+}
+h2{
+    position:fixed;
+    left: 6.25vw;
+    top: 27vw;
+    font-family: "Courgette";
+    font-size: 36px;
+}
+p2{
+    position:fixed;
+    left: 6.25vw;
+    top: 33.25vw;
+    font-family: "Courgette";
+    font-size: 14px;
+    width: 54.166vw;
+    line-height: 200%;
+}
+img2 {
+    width: 20vw;
+    height: 20vw;
+    position: fixed;
+    top: 27vw;
+    right: 4.166vw;
+    border: 0;
+    background-image: URL("https://images.unsplash.com/photo-1572552635104-daf938e0aa1f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aXRhbGlhbiUyMGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+}
